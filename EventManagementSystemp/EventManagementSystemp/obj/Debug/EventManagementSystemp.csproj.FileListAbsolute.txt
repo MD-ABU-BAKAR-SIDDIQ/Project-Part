@@ -1,0 +1,3 @@
+C:\Users\Arman\Desktop\C# project\EventManagementSystemp\EventManagementSystemp\obj\Debug\EventManagementSystemp.Properties.Resources.resources
+C:\Users\Arman\Desktop\C# project\EventManagementSystemp\EventManagementSystemp\obj\Debug\EventManagementSystemp.csproj.GenerateResource.cache
+C:\Users\Arman\Desktop\C# project\EventManagementSystemp\EventManagementSystemp\obj\Debug\EventManagementSystemp.csproj.CoreCompileInputs.cache
